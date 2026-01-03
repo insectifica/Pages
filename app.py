@@ -225,6 +225,6 @@ st.markdown(
 )
 st.link_button(
     label="🚀INSECTIFICA ",
-    url="https://insect-app-6jeerhx4hcx9zw3pyqzt9n.streamlit.app",
+    url="https://insectifica-musesfsygks9agydx9s5gy.streamlit.app/",
     use_container_width=True
 )
