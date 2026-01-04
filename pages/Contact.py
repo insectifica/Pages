@@ -197,7 +197,7 @@ st.markdown("""
 
 st.set_page_config(page_title="Contact – INSECTIFICA", page_icon="📞")
 
-st.title("👨‍🔬 Development Team")
+st.title("👨‍🔬Contact and Development Team")
 
 st.markdown("""
 **Department of Biotechnology**  
@@ -220,11 +220,17 @@ st.markdown("""
 - Dr. V. Swabna  
 - Dr. A. Asha Monica  
 - Dr. Pavulraj Michael SJ  
+  Rector,  
+  St. Joseph’s College (Autonomous),  
+  Tiruchirappalli – 620 002
 
 ### **Scientific Data Verification**
 - Dr. V. Swabna  
 - Dr. A. Asha Monica  
 - Dr. Pavulraj Michael SJ  
+  Rector,  
+  St. Joseph’s College (Autonomous),  
+  Tiruchirappalli – 620 002
 
 ### **Guidance & Supervision**
 - **Dr. Pavulraj Michael SJ**  
