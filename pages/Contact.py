@@ -204,20 +204,31 @@ st.markdown("""
 St. Joseph’s College (Autonomous)  
 Tiruchirappalli – 620 002  
 
-📧 edward_bt2@mail.sjctni.edu  
-📧 cisgene.edward@gmail.com
+📧 **Contact Email IDs:**  
+- edward_bt2@mail.sjctni.edu  
+- cisgene.edward@gmail.com
 """)
 
 st.divider()
 
 st.markdown("""
-### 👨‍💻 App Concept & Development
+### **App Concept & Design**
+- Dr. A. Edward  
+
+### **Development & Programming**
 - Dr. A. Edward  
 - Dr. V. Swabna  
 - Dr. A. Asha Monica  
 - Dr. Pavulraj Michael SJ  
 
-### 🎓 Guidance
-Dr. Pavulraj Michael SJ  
-Rector, St. Joseph’s College (Autonomous)
+### **Scientific Data Verification**
+- Dr. V. Swabna  
+- Dr. A. Asha Monica  
+- Dr. Pavulraj Michael SJ  
+
+### **Guidance & Supervision**
+- **Dr. Pavulraj Michael SJ**  
+  Rector,  
+  St. Joseph’s College (Autonomous),  
+  Tiruchirappalli – 620 002
 """)
