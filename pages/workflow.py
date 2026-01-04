@@ -146,9 +146,10 @@ st.markdown("""
             border-radius: 18px;
             padding: 20px;
             box-shadow: 0 4px 14px rgba(0,0,0,0.08);
-            margin-bottom: 22px;
+            margin: 22px auto;   /* 👈 centers horizontally */
             color: #1b5e20;
-        }
+              max-width: 700px;    /* optional but recommended */
+            }
 
         /* --------------------------------------------------
            FOOTER
