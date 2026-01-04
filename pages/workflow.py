@@ -28,6 +28,22 @@ hide_streamlit_elements = """
     </style>
 """
 st.markdown(hide_streamlit_elements, unsafe_allow_html=True)
+st.markdown("""
+<style>
+/* 🔥 REMOVE DARK / BLACK WORKFLOW CARD BACKGROUND */
+.workflow-card,
+.workflow-container,
+.dark-card,
+div[style*="background"],
+div[style*="#0"],
+div[style*="rgb(0"],
+div[style*="black"] {
+    background: transparent !important;
+    box-shadow: none !important;
+}
+</style>
+""", unsafe_allow_html=True)
+
 
 # Optional: make the page look even cleaner
 
