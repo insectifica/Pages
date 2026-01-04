@@ -219,18 +219,14 @@ st.markdown("""
 - Dr. A. Edward  
 - Dr. V. Swabna  
 - Dr. A. Asha Monica  
-- **Dr. Pavulraj Michael SJ**  
-  Rector,  
-  St. Joseph’s College (Autonomous),  
-  Tiruchirappalli – 620 002
+- Dr. Pavulraj Michael SJ  
+ 
 
 ### **Scientific Data Verification**
 - Dr. V. Swabna  
 - Dr. A. Asha Monica  
-- **Dr. Pavulraj Michael SJ**  
-  Rector,  
-  St. Joseph’s College (Autonomous),  
-  Tiruchirappalli – 620 002
+- Dr. Pavulraj Michael SJ  
+  
 
 ### **Guidance & Supervision**
 - **Dr. Pavulraj Michael SJ**  
