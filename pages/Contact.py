@@ -197,7 +197,7 @@ st.markdown("""
 
 st.set_page_config(page_title="Contact – INSECTIFICA", page_icon="📞")
 
-st.title("👨‍🔬Contact and Development Team")
+st.title("👨‍🔬Development Team & Contact Details ")
 
 st.markdown("""
 **Department of Biotechnology**  
